@@ -31,6 +31,9 @@ The goal is to practise data analysis skills and demonstrate how SQL queries, sp
 
 ## Dashboard
 
+![Airline Ticket Sales & Revenue Analysis Dashboard](screenshots/airline-ticket-sales-analysis%20dashboard.png)
+
+
 The Tableau dashboard includes:
 - Monthly ticket sales value over time
 - Fare value and ticket volume by cabin class
