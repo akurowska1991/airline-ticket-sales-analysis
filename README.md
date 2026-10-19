@@ -43,6 +43,8 @@ The Tableau dashboard includes:
 
 Interactive selections allow users to explore supported views of the data.
 
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.kurowska/viz/AIRLINETICKETSALESREVENUEANALYSIS/AIRLINETICKETSALESREVENUEANALYSIS?publish=yes)**
+
 ## Data Quality & Limitations
 
 The project uses a **synthetic sample dataset**, not real airline commercial data. The findings therefore describe patterns within this sample and should not be interpreted as actual airline or market performance.
@@ -69,6 +71,11 @@ Payment differences identify discrepancies between ticket values and recorded pa
 
 ## Data Source
 
-Synthetic airline sample database, version 1. The dataset is distributed under the CC0-1.0 license.
+This project uses the Airline Sample Database v1, a synthetic airline dataset provided by [DatabaseSample](https://databasesample.com/datasets/airline-sample-database).
 
-This is an independent portfolio project created for learning and demonstration purposes.
+The dataset is distributed under the CC0-1.0 license.
+
+Selected source tables used in the analysis are included in the `data/` folder as CSV files.
+
+The project uses synthetic data for learning and portfolio demonstration purposes. The findings do not represent the actual performance of any airline.
+
